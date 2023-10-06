@@ -9,9 +9,13 @@ The Product Management System is a Maven project that allows you to create, fetc
 The project directory is organized as follows:
 
 src/: Contains the source code of the application.
+
 com.example: Java classes and packages.
+
 pom.xml: Maven project configuration file, including dependencies for JPA, Lombok, Spring Web, and PostgreSQL.
+
 README.md: This README file.
+
 .gitignore: Specifies files and directories to be ignored by Git.
 
 ## Usage
